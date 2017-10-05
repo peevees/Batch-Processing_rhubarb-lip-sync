@@ -7,4 +7,4 @@ extract Rhubarb files inside folder Batch-Processing
 put .wav files inside wavfiles folder
 run script
 
-when script is done all txt files will be inside finished folder
+when script is done all txt files will be inside finished folder, they will have windows line endings.
